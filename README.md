@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+![Ngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilly7&show_icons=true&theme=radical)
+
 
 <!--
 **gilly7/gilly7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
