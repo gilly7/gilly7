@@ -2,17 +2,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-ngenogilbert07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ngenogilbert07@gmail.com)](mailto:ngenogilbert07@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-gilbertngenob4290b143-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilbertngenob4290b143/)](https://www.linkedin.com/in/gilbertngenob4290b143/) [![Github Badge](https://img.shields.io/badge/-gilly7-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gilly7/)](https://www.github.com/gilly7/) [![Twitter Badge](https://img.shields.io/badge/-gilbert4_real-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gilbert4_real/)](https://www.twitter.com/gilbert4_real/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ngeno.netlify.app/)](ngeno.netlify.app/) 
 
-<p align='left'>A young gun with a quick fuse.
+<p align='left'>
+ I am aFull-Stack Mobile Developer
 
-I love Android/ios app development.
-
-Ready to dive into writing clean, readable, and reusable code
-
-I enjoy solving problems, writing, and building products. I'm also passionate about communities and open-source.
-
-I like to peek under the hood, tinker with technologies, and learn new skills.
-
-I'm an avid reader and generally curious.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1grY3mvElXn4gPpOwgcOWf4GBEmP1r7wo/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+:round_pushpin: Ready to dive into writing clean, readable, and reusable code.
+:hammer:  Motto: Commit early & often, Perfect Later, Publish Once
+  ⏳ I’m currently learning
+![JetPack Compose](https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png)
+![KMP](https://img.shields.io/badge/KMP-Kotlin%20Mutliplatform-%23B75EA4)
+ Proudly :kenya: 
+  
+</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1grY3mvElXn4gPpOwgcOWf4GBEmP1r7wo/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
 
