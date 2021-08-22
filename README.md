@@ -1,16 +1,14 @@
 ## Hey 👋, This is Gilbert Ng'eno
+- 📫 How to reach me: 
+ [![Gmail Badge](https://img.shields.io/badge/-ngenogilbert07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ngenogilbert07@gmail.com)](mailto:ngenogilbert07@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-gilbertngenob4290b143-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilbertngenob4290b143/)](https://www.linkedin.com/in/gilbertngenob4290b143/) [![Github Badge](https://img.shields.io/badge/-gilly7-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gilly7/)](https://www.github.com/gilly7/) [![Twitter Badge](https://img.shields.io/badge/-gilbert4_real-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gilbert4_real/)](https://www.twitter.com/gilbert4_real/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ngeno.netlify.app/)](ngeno.netlify.app/) 
 :hammer: Commit early & often, Perfect Later, Publish Once
 
 - 💻  I am a Full-Stack Mobile Developer
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Jetpack compose ![KMP](https://img.shields.io/badge/KMP-Kotlin%20Mutliplatform-%23B75EA4)
 - 👯 I’m looking to collaborate on Mobile frontend and backend design.
 - 🤔 I’m looking to connect with teams and internship oppor.
 - 💬 Ask me about OOP,Java, open-source,APIs.
-- 📫 How to reach me: 
- [![Gmail Badge](https://img.shields.io/badge/-ngenogilbert07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ngenogilbert07@gmail.com)](mailto:ngenogilbert07@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-gilbertngenob4290b143-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilbertngenob4290b143/)](https://www.linkedin.com/in/gilbertngenob4290b143/) [![Github Badge](https://img.shields.io/badge/-gilly7-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gilly7/)](https://www.github.com/gilly7/) [![Twitter Badge](https://img.shields.io/badge/-gilbert4_real-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/gilbert4_real/)](https://www.twitter.com/gilbert4_real/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ngeno.netlify.app/)](ngeno.netlify.app/) 
-- 😄 Pronouns: He,they,him
 -  Proudly :kenya:   
 </p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1grY3mvElXn4gPpOwgcOWf4GBEmP1r7wo/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 ## Some of my Github Stats
