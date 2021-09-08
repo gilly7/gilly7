@@ -4,7 +4,6 @@
 ⚡ Commit early & often, Perfect Later, Publish Once
 
 - 💻  I am a Software Engineer:Mobile
-- 
 - 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white), ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white), 
 - 🤔 I’m looking to connect with teams and internship oppor.
 - 💬 Ask me about OOP,Java, open-source,APIs.
