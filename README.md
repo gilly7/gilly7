@@ -4,7 +4,7 @@
 ⚡ Commit early & often, Perfect Later, Publish Once
 
 - 💻  I am a Software Engineer
-- 🌱 I’m currently learning ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white), <img src="https://img.icons8.com/color/50/000000/spring-logo.png"/>, 
+- 🌱 I’m currently learning ![GoLang](https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=GoLang&logoColor=white), <img src="https://img.icons8.com/color/50/000000/spring-logo.png"/>, 
 - 🤔 I’m looking to connect with teams and internship oppor.
 - 💬 Ask me about OOP, open-source,APIs.
 -  📍 I'm from Rift Valley, Kenya 🇰🇪
