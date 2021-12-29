@@ -3,10 +3,11 @@
 ### Work in Progress ⚠️🚧
 ⚡ Commit early & often, Perfect Later, Publish Once
 
-- 💻  I am a Software Engineer
+- 💻  I am a Software Engineer - Backend Dev
 - 🌱 I’m currently learning ![GoLang](https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=GoLang&logoColor=white)
-- 🤔 I’m looking to connect with teams and internship oppor.
+- 🤔 I’m looking to connect with teams.
 - 💬 Ask me about OOP, open-source,APIs.
+- 😄 Pronouns:he/him/they
 -  📍 I'm from Rift Valley, Kenya 🇰🇪
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
