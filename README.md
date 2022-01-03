@@ -1,4 +1,7 @@
 ## Hey 👋, This is Gilbert Ng'eno
+
+Gilbert loves the coding in Java and Go programming languages. A backend developer and avid writer, he's very passionate about blockchain technology.
+
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ngeno.netlify.app/)](ngeno.netlify.app/) 
 ### Work in Progress ⚠️🚧
 ⚡ Commit early & often, Perfect Later, Publish Once
