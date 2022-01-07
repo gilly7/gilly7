@@ -9,7 +9,6 @@ Gilbert loves coding in Java and Go programming languages. A software developer 
 - 💻  I am a Software Engineer - Backend Dev
 - 🌱 I’m currently learning ![GoLang](https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=GoLang&logoColor=white)
 - 🤔 I’m looking to connect with teams.
-- 💬 Ask me about OOP, open-source,APIs.
 - 😄 Pronouns:he/him/they
 -  📍 I'm from Rift Valley, Kenya 🇰🇪
 ## Some of my Github Stats
