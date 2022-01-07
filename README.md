@@ -15,7 +15,8 @@ Gilbert loves coding in Java and Go programming languages. A software developer 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=gilly7&show_icons=true&include_all_commits=true)](https://github.com/gilly7/github-readme-stats)
+[![Ngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilly7)](https://github.com/gilly7/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilly7&layout=compact)](https://github.com/gilly7/github-readme-stats)
 
 <!--
