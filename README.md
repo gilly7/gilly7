@@ -18,7 +18,6 @@ Gilbert loves coding in Java and Go programming languages. A software developer 
 [![Ngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilly7)](https://github.com/gilly7/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilly7&layout=compact)](https://github.com/gilly7/github-readme-stats)
-
 <!--
 **gilly7/gilly7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
