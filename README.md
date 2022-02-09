@@ -1,13 +1,13 @@
 ## Hey 👋, This is Gilbert Ng'eno
 
 Gilbert loves coding in Java, Kotlin and Go programming languages. A software developer and avid reader, he's very passionate about opensource and blockchain technology.
-
+Reach me on: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vansh-kapoor-62a938169/)
 <!--[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ngeno.netlify.app/)](ngeno.netlify.app/) -->
 ### Work in Progress ⚠️🚧
 ⚡ Commit early & often, Perfect Later, Publish Once
 
 - 💻  I am a Software Engineer - Backend Dev
-- 🌱 I’m currently learning ![GoLang](https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=GoLang&logoColor=white)
+- 🌱 I’m currently learning ![GoLang](https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=GoLang&logoColor=white) and ![Java](https://img.shields.io/badge/Java-%230095D5.svg?style=for-the-badge&logo=Java) DSA
 - 🤔 I’m looking to connect with teams.
 -  📍 I'm from Rift Valley, Kenya 🇰🇪
 
