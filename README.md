@@ -1,7 +1,7 @@
 ## Hey 👋, This is Gilbert Ng'eno
 
  Gilbert loves coding in Java, Kotlin and Go programming languages. 
- -💻  Software developer and avid reader.
+- 💻  Software developer and avid reader.
 - very passionate about opensource and blockchain technology. 
 
 <!--[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ngeno.netlify.app/)](ngeno.netlify.app/) -->
