@@ -1,6 +1,5 @@
 ## Hey 👋, This is Gilbert Ng'eno
-
- Gilbert loves coding in Java, Kotlin and Go programming languages. 
+ <!-- Gilbert loves coding in Java, Kotlin and Go programming languages.  -->
 - 💻  Software developer and avid reader.
 - very passionate about opensource and blockchain technology. 
 
@@ -11,13 +10,13 @@
 - 🌱 I’m currently learning ![GoLang](https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=GoLang&logoColor=white) and ![Java](https://img.shields.io/badge/Java-%230095D5.svg?style=for-the-badge&logo=Java) DSA
 - 🤔 I’m looking to connect with teams.
 -  📍 I'm from Rift Valley, Kenya 🇰🇪
-
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
 
-[![Ngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilly7)](https://github.com/gilly7/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilly7&langs_count=8&layout=compact)](https://github.com/gilly7/github-readme-stats)
+[![Ngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilly7)](https://github.com/gilly7/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilly7&langs_count=8&layout=compact)](https://github.com/gilly7/github-readme-stats)
 
-Connect with me on: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gilbert-ng-eno-b4290b143/)
+Connect with me on: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gilbert-ng-eno-b4290b143/) 
 <!--
 **gilly7/gilly7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
