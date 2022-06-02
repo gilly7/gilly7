@@ -9,6 +9,7 @@
 
 - 🌱 I’m currently learning ![GoLang](https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=GoLang&logoColor=white) and ![Java](https://img.shields.io/badge/Java-%230095D5.svg?style=for-the-badge&logo=Java) DSA
 - 🤔 I’m looking to connect with teams.
+- 📫 How to reach me: ngenogilbert07@gmail.com
 -  📍 I'm from Rift Valley, Kenya 🇰🇪
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
