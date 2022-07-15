@@ -7,7 +7,7 @@
 ### Work in Progress ⚠️🚧
 ⚡ Commit early & often, Perfect Later, Publish Once
 
-- 🌱 I’m currently learning ![GoLang](https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=GoLang&logoColor=white) and ![Java](https://img.shields.io/badge/Java-%230095D5.svg?style=for-the-badge&logo=Java) DSA
+- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/GoLang-%230095D5.svg?style=for-the-badge&logo=Python&logoColor=white) and ![Java](https://img.shields.io/badge/Java-%230095D5.svg?style=for-the-badge&logo=Java) DSA
 - 🤔 I’m looking to connect with teams.
 - 📫 How to reach me: ngenogilbert07@gmail.com
 -  📍 I'm from Rift Valley, Kenya 🇰🇪
