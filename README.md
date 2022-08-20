@@ -11,7 +11,7 @@
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) and ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) DSA-->
 - 🤔 I’m looking to connect with teams.
 - 📫 How to reach me: ngenogilbert07@gmail.com
--  📍 I'm from Rift Valley, Kenya 🇰🇪
+-  📍 I'm from Nairobi, Kenya 🇰🇪
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
 
