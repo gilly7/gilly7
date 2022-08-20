@@ -16,7 +16,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
 
 [![Ngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilly7)](https://github.com/gilly7/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilly7&langs_count=8&layout=compact)](https://github.com/gilly7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilly7&langs_count=10&layout=compact)](https://github.com/gilly7/github-readme-stats)
 
 Connect with me on: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gilbert-ng-eno-b4290b143/)   ![Twitter Follow](https://img.shields.io/twitter/follow/gilbert4_real?style=social)
 <!--
