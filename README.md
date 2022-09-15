@@ -1,6 +1,16 @@
 ## Hey 👋, This is Gilbert Ng'eno
  <!-- Gilbert loves coding in Java, Kotlin and Go programming languages.  -->
-- 💻  Software Engineer and avid reader. Very passionate about opensource and blockchain technology. 
+ 💻  Software Engineer and avid reader. Very passionate about opensource and blockchain technology. 
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gilbert4_real)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbert-ng-eno-b4290b143/)
+[![Gumroad](https://img.shields.io/badge/Gumroad-000000?style=for-the-badge&logo=gumroad&logoColor=white)](https://gumroad.com/a/1036063859)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ngenogilbert07)
+[![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@GNgeno)
+
+</div>
 
 <!--[![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=ngeno.netlify.app/)](ngeno.netlify.app/) -->
 ### Work in Progress ⚠️🚧
@@ -11,7 +21,6 @@
 - 🤔 I’m looking to connect with teams.
 - 📫 How to reach me: ngenogilbert07@gmail.com
 -  📍 I'm from Nairobi, Kenya 🇰🇪
-- Connect with me on: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gilbert-ng-eno-b4290b143/)   ![Twitter Follow](https://img.shields.io/twitter/follow/gilbert4_real?style=social)
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
 
