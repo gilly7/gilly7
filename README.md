@@ -16,7 +16,7 @@
 ### Work in Progress ⚠️🚧
 ⚡ Commit early & often, Perfect Later, Publish Once
 
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) and automations.
+- 🌱 I’m currently learning Flutter and automations.
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) and ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) DSA
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54)
 -->
