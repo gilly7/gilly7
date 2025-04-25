@@ -1,6 +1,6 @@
 ## Hey 👋, This is Gilbert Ng'eno
  <!-- Gilbert loves coding in Java, Kotlin and Go programming languages.  -->
- 💻  Software Engineer and avid reader. Very passionate about opensource and blockchain technology. 
+ 💻  Software Engineer and avid reader. Very passionate about opensource and AI technology. 
 
 <div align="center">
 
