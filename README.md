@@ -16,14 +16,14 @@
 ### Work in Progress ⚠️🚧
 ⚡ Commit early & often, Perfect Later, Publish Once
 
-- 🌱 I’m currently learning Flutter and automations.
+- 🌱 Flutter, CI/CD.
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) and ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) DSA
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54)
 -->
-- 🤔 I’m looking to connect with teams.
+<!--- 🤔 I’m looking to connect with teams.
 - 📫 How to reach me: ngenogilbert07@gmail.com
 -  📍 I'm from Nairobi, Kenya 🇰🇪
-<!--## Some of my Github Stats
+## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
 <!--[![Ngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilly7)](https://github.com/gilly7/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilly7&langs_count=10&layout=compact)](https://github.com/gilly7/github-readme-stats)
