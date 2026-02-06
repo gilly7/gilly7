@@ -26,9 +26,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
 <!--[![Ngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilly7)](https://github.com/gilly7/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilly7&langs_count=10&layout=compact)](https://github.com/gilly7/github-readme-stats)
-
-
+![Top Langs](https://your-vercel-url.vercel.app/api/top-langs/?username=gilly7&count_private=true&layout=compact&langs_count=8&theme=dracula)
 <!--
 **gilly7/gilly7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
