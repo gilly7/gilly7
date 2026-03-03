@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/gilbert4_real)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gilbert-ng-eno-b4290b143/)
 [![Gumroad](https://img.shields.io/badge/Gumroad-000000?style=for-the-badge&logo=gumroad&logoColor=white)](https://gumroad.com/a/1036063859)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ngenogilbert07)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ngenogilbert)
 [![Hashnode](https://img.shields.io/badge/Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@GNgeno)
 
 </div>
