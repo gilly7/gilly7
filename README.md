@@ -19,10 +19,10 @@
 ```java
 public class gilbert_ngeno {
 
-    public String role = "Implementation Engineer | Flutter Developer | DevOps Engineer";
-    public String github = "gilbert-ngeno";
-    public String email = "your-email@example.com";
-    public String linkedin = "linkedin.com/in/gilbert-ngeno";
+    public String role = "Software Engineer";
+    public String github = "gilly7";
+    public String email = "ngenogilbert07@gmail.com";
+    public String linkedin = "linkedin.com/in/gilbert-ng-eno-b4290b143/";
 
     public String[] techStack = {
         "Flutter", "Dart", "Java", "Python",
