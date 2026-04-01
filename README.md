@@ -16,7 +16,21 @@
 ### Work in Progress ⚠️🚧
 ⚡ Commit early & often, Perfect Later, Publish Once
 
-- 🌱 Flutter, CI/CD.
+```java
+public class gilbert_ngeno {
+
+    public String role = "Implementation Engineer | Flutter Developer | DevOps Engineer";
+    public String github = "gilbert-ngeno";
+    public String email = "your-email@example.com";
+    public String linkedin = "linkedin.com/in/gilbert-ngeno";
+
+    public String[] techStack = {
+        "Flutter", "Dart", "Java", "Python",
+        "Kubernetes", "Docker", "PostgreSQL",
+        "Oracle", "Next.js", "Linux"
+    };
+}
+```
 <!-- ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) and ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) DSA
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=java&logoColor=ffdd54)
 -->
@@ -26,7 +40,7 @@
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=gilly7 alt=gilly7 /> </p>
 <!--[![Ngeno's GitHub stats](https://github-readme-stats.vercel.app/api?username=gilly7)](https://github.com/gilly7/github-readme-stats) -->
-![Top Langs](https://your-vercel-url.vercel.app/api/top-langs/?username=gilly7&count_private=true&layout=compact&langs_count=8&theme=dracula)
+<!--![Top Langs](https://your-vercel-url.vercel.app/api/top-langs/?username=gilly7&count_private=true&layout=compact&langs_count=8&theme=dracula)
 <!--
 **gilly7/gilly7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
